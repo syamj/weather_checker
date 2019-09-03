@@ -16,5 +16,5 @@ Edit and add your API Key to api_key in the code.
 
 And this will be a sample output :)
 
-[And this will be sample output](https://ibin.co/4tlibYTB5h2I.png)
+![And this will be sample output](https://ibin.co/4tlibYTB5h2I.png)
 
