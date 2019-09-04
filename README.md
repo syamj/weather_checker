@@ -11,6 +11,7 @@ Once API key is created ,we can use it to fetch weather details from the website
 
 Edit and add your API Key to api_key in the code.
 
+Run the script and enter your City name.
 
 ![Run the script and enter your City name.](https://ibin.co/4tljv2mXySdH.png)
 
